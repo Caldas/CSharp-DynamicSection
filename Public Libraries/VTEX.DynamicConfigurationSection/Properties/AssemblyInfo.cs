@@ -3,7 +3,7 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("VTEX Configuration DynamicSection Core Library")]
-[assembly: AssemblyDescription("Core library designed to extend VTEX custom ConfigurationSection at others projects")]
+[assembly: AssemblyDescription("VTEX library designed to extend custom ConfigurationSection and allow they to reload configuration through defined restore plugin")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("VTEX")]
 [assembly: AssemblyProduct("VTEX.Configuration.DynamicSection")]
