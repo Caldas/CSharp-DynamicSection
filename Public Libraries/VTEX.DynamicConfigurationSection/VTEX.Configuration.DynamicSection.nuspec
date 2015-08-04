@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+	<metadata>
+		<id>DynamicConfigurationSection</id>
+		<version>$version$</version>
+		<title>VTEX Dynamic ConfigurationSection</title>
+		<authors>FabioCaldas</authors>
+		<owners>VTEX</owners>
+		<projectUrl>https://github.com/vtex/Diagnostics</projectUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>VTEX library designed to extend custom ConfigurationSection and allow they to reload configuration through defined restore plugin</description>
+		<releaseNotes />
+		<copyright>Copyright © Vtex 2015</copyright>
+		<tags>VTEX ConfigurationSection Reload</tags>
+	</metadata>
+	<files>
+		<file src="bin\Release\VTEX.Configuration.DynamicSection.pdb" target="lib\net45" />
+		<file src="bin\Release\VTEX.Configuration.DynamicSection.xml" target="lib\net45" />
+	</files>
+</package>
