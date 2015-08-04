@@ -15,6 +15,5 @@
 	</metadata>
 	<files>
 		<file src="bin\Release\VTEX.Configuration.DynamicSection.pdb" target="lib\net45" />
-		<file src="bin\Release\VTEX.Configuration.DynamicSection.xml" target="lib\net45" />
 	</files>
 </package>
