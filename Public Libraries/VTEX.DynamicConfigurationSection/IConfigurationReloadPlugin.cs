@@ -17,7 +17,7 @@ namespace VTEX.Configuration.DynamicSection
         /// <summary>
         /// Method used to start retreive process to get latest properties values from plugin storage
         /// </summary>
-        /// <param name="properties">List with properties that should be consulted at plugin storage</param>
+        /// <param name="configurationSection">Base configuration section, provided in order to be able to retreive properties</param>
         void GetLastestPropertiesValues(ConfigurationSection configurationSection);
     }
 }
