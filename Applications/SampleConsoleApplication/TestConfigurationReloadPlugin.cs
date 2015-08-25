@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Configuration;
-using VTEX.Configuration.DynamicSection;
+using DynamicSection;
 
-namespace VTEX.Configuration.DynamicSection.SampleConsoleApplication
+namespace DynamicSection.SampleConsoleApplication
 {
     /// <summary>
     /// This is a test propose demonstration plugin.

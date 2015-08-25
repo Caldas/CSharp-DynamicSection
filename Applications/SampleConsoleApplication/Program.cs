@@ -2,7 +2,7 @@
 using System.Configuration;
 using System.Timers;
 
-namespace VTEX.Configuration.DynamicSection.SampleConsoleApplication
+namespace DynamicSection.SampleConsoleApplication
 {
     /// <summary>
     /// This sample program show how is possible to propagate a property change to your custom configuration section values.

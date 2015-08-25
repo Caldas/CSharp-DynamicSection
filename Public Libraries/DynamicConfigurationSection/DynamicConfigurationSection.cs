@@ -2,7 +2,7 @@
 using System.Configuration;
 using System.Timers;
 
-namespace VTEX.Configuration.DynamicSection
+namespace DynamicSection
 {
     /// <summary>
     /// Define a configuration section capable of running a refresh plugin instance, allowing refresh configuration every minute without 

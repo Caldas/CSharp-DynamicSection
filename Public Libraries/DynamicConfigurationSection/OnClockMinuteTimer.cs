@@ -2,7 +2,7 @@
 using System.ComponentModel;
 using System.Timers;
 
-namespace VTEX.Configuration.DynamicSection
+namespace DynamicSection
 {
     /// <summary>
     /// Specialized timer that run every minute on '00' second

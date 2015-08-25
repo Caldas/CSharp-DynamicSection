@@ -3,15 +3,15 @@
 	<metadata>
 		<id>DynamicConfigurationSection</id>
 		<version>$version$</version>
-		<title>VTEX Dynamic ConfigurationSection</title>
-		<authors>FabioCaldas</authors>
+		<title>VTEX DynamicSection Configuration Library</title>
+		<authors>Fabio Caldas</authors>
 		<owners>VTEX</owners>
-		<projectUrl>https://github.com/vtex/Diagnostics</projectUrl>
+		<projectUrl>https://github.com/vtex/CSharp-DynamicSection</projectUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<description>VTEX library designed to extend custom ConfigurationSection and allow they to reload configuration through defined restore plugin</description>
 		<releaseNotes />
 		<copyright>Copyright © Vtex 2015</copyright>
-		<tags>VTEX ConfigurationSection Reload</tags>
+		<tags>VTEX DynamicSection Dynamic Section ConfigurationSection Configuration Reload</tags>
 	</metadata>
 	<files>
 		<file src="bin\Release\VTEX.Configuration.DynamicSection.pdb" target="lib\net45" />

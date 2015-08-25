@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Configuration;
 
-namespace VTEX.Configuration.DynamicSection
+namespace DynamicSection
 {
     /// <summary>
     /// Represents a interface to allow plugins to reload configuration properties based on any desired storage
